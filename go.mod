@@ -1,4 +1,4 @@
-module github.com/gTahidid/go-server
+module github.com/gTahidi/go-server
 
 
 go 1.23.2
